@@ -1,0 +1,5 @@
+com\mycompany\minapdf\App.class
+module-info.class
+com\mycompany\minapdf\SecondaryController.class
+com\mycompany\minapdf\ThirdController.class
+com\mycompany\minapdf\PrimaryController.class
